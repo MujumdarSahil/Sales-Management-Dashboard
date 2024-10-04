@@ -12,6 +12,10 @@ The Sales Management Dashboard is a web application designed to help manage sale
 - Easy integration with various sales platforms
 
 ## Technologies Used
+
+https://github.com/user-attachments/assets/60fa8153-9b6c-47cd-8318-98d67db15394
+
+
 HTML CSS JavaScript
 Installation
 
