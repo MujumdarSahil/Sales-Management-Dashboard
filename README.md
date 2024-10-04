@@ -17,3 +17,4 @@ Installation
 
 1. Clone the repository:
    ```bash
+https://github.com/MujumdarSahil/Sales-Management-Dashboard.git
